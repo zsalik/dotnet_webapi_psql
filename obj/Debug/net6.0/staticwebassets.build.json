@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GABoZgz0qI9FlbrHH1ez4++/+hi2G8DVIOuL+Gus7Uc=",
+  "Source": "dotnet_webapi_psql",
+  "BasePath": "_content/dotnet_webapi_psql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

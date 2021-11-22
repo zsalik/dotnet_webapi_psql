@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/zenas/.dotnet/store/|arch|/|tfm|",
+      "/home/zenas/.nuget/packages"
+    ]
+  }
+}
