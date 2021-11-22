@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aGEjlTDZlaQ1+r+RpemzOgepIZzHV7U7tnzy5kITLd2yimLqB7//xL6tpEMtENJMPZ6BKL5nQH4NhftpPCI+kw==",
+  "dgSpecHash": "3hBRPlro2YfIGyLXLalUSC7/5YFdh8WFQ3G8LhF0PGBFlC+3dVf95j24bQH6kitXvF++tI5AYHZaR0oAsTwCjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
+  "projectFilePath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zenas\\.nuget\\packages\\efcore.namingconventions\\6.0.0-rc.1\\efcore.namingconventions.6.0.0-rc.1.nupkg.sha512",
     "C:\\Users\\zenas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -9805,11 +9805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
+      "projectUniqueName": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
       "projectName": "dotnet_webapi_psql",
-      "projectPath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
+      "projectPath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql.csproj",
       "packagesPath": "C:\\Users\\zenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\dotnet_webapi_psql\\obj\\",
+      "outputPath": "C:\\Users\\zenas\\Documents\\dev_proj\\dotnet_proj\\dotnet_webapi_psql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
